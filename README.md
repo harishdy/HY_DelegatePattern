@@ -1,5 +1,6 @@
 # HY_DelegatePattern
-Key Steps to Delegation
+Key Steps to Delegation:-
+
 The delegation design pattern has long been a core competency for Cocoa programmers. This remains the case with the arrival of Swift. Regardless of whether you are using Objective-C or Swift the basic steps to use delegation are the same:
 
 Create a delegate protocol that defines the responsibilities of the delegate.
